@@ -5,13 +5,13 @@
             <element>title</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-10 15:59:47</sys_created_on>
-            <sys_id>2c0e65a9090232007f44e1046c8ff6b3</sys_id>
+            <sys_created_on>2018-03-15 13:56:01</sys_created_on>
+            <sys_id>a4a407ae4f741300081d89dba310c7b6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">540e65a9090232007f44e1046c8ff6a3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-10 15:59:47</sys_updated_on>
+            <sys_updated_on>2018-03-15 13:56:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,27 @@
             <element>note</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-10 15:59:47</sys_created_on>
-            <sys_id>ac0e65a9090232007f44e1046c8ff6b3</sys_id>
+            <sys_created_on>2018-03-15 13:56:01</sys_created_on>
+            <sys_id>6ca407ae4f741300081d89dba310c7b6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">540e65a9090232007f44e1046c8ff6a3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-10 15:59:47</sys_updated_on>
+            <sys_updated_on>2018-03-15 13:56:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_translated_text</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-15 13:56:01</sys_created_on>
+            <sys_id>eca407ae4f741300081d89dba310c7b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">540e65a9090232007f44e1046c8ff6a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 13:56:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
